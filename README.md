@@ -1,5 +1,8 @@
 # gardenink
 
+![logo](https://github.com/neorock07/gardenink/assets/99853004/181f14f1-0515-42a1-a19d-51f0910aaef1)
+
+
 A new Flutter project.
 
 ## Getting Started
